@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dec_3_Calculator_RelativeLayout_Anton</string>
+    <string name="_0">0</string>
+    <string name="dot_string">.</string>
+    <string name="zero_string">0</string>
+    <string name="ac">AC</string>
+    <string name="plus_minus">+/-</string>
+    <string name="OneHundredDp">100dp</string>
+    <string name="percent">%</string>
+</resources>
